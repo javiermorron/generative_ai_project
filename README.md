@@ -143,6 +143,8 @@ print(respuesta)
 ## Demo de Streamlit
 Puedes probar una demo interactiva del proyecto en Streamlit:
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://generativeaiproject-cftilw3dfm956s4asgudgv.streamlit.app/)
+---
+## Nota: st.warning("⚠️ Este demo solo funciona en tu PC local, ya que requiere `ollama` corriendo con el modelo `gemma:2b`.")
 
 
 ## 📜 Licencia
